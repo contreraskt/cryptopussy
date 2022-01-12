@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5374858091683b673d2f822b634e88b1ac6c5207",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x06d582ddab45ba8dcd89c992af7b0393797d3a69b749d294e91ecbcd7e64557b",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Ethereum",
+    "ID": 137
+  },
+  "NFT_NAME": "Doodle Nyan Test",
+  "SYMBOL": "DNT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/doodlenyantest",
+  "SHOW_BACKGROUND": true
+}
